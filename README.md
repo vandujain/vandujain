@@ -4,7 +4,7 @@ Welcome to my little corner of GitHub!
 I’m a Data Science master’s student who’s passionate about learning new technologies, building real-world projects, and slowly turning confusion into confidence (one bug at a time 😅).Here, you’ll find:
 
 - 🛠️ Data science, machine learning & analytics projects I’m working on
-- 📊 Hands-on practice with Python, SQL, EDA, NLP & visualization
+- 📊 Hands-on practice with Python, SQL, EDA, NLP & visualization 
 - 📚 Lessons I’ve learned while balancing college, deadlines, and debugging at 2 AM
 - 🌱 Motivation for anyone trying to grow in tech—even when things feel overwhelming
 
