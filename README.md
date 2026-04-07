@@ -8,7 +8,7 @@ I’m a Data Science master’s student who’s passionate about learning new te
 - 📚 Lessons I’ve learned while balancing college, deadlines, and debugging at 2 AM
 - 🌱 Motivation for anyone trying to grow in tech—even when things feel overwhelming
 
-Whether you’re here to explore projects, learn alongside me, or just see how someone else is figuring out their tech journey — you’re absolutely in the right place 🫶
+Whether you’re here to explore projects, learn alongside me, or just see how someone else is figuring out their tech journey — you’re absolutely in the right place 🫶 
 
 **Let’s learn, build, and grow together — one dataset at a time.**
 You bring the curiosity, I’ll bring the code ☕💻✨ 
