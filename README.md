@@ -1,5 +1,5 @@
 ## 🌸 Hey there, I’m Vandana — so glad you’re here!
-
+ 
 Welcome to my little corner of GitHub! 
 I’m a Data Science master’s student who’s passionate about learning new technologies, building real-world projects, and slowly turning confusion into confidence (one bug at a time 😅).Here, you’ll find:
 
